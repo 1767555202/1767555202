@@ -1,7 +1,7 @@
 # 👋 欢迎来到我的GitHub主页
 
 <div align="center">
-  <img src="https://picsum.photos/800/300" alt="开发者横幅图" width="100%"/>
+  <img src="" alt="开发者横幅图" width="100%"/>
 </div>
 
 ## 🚀 关于我
